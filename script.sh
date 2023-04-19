@@ -1,0 +1,1 @@
+ARM_CLIENT_SECRET: "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"
